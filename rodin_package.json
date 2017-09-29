@@ -1,0 +1,5 @@
+{
+  "name": "webvr-polyfill",
+  "main": "index.js",
+  "es_module": false
+}
