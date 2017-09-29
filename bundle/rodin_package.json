@@ -1,8 +1,0 @@
-{
-  "name": "webvr-polyfill",
-  "main": "index.js",
-  "es_module": false,
-  "dependencies": {
-  	"threejs/main": "r87"
-  }
-}
